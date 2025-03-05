@@ -34,7 +34,7 @@ The **Hours Viewed** column was cleaned and converted into numeric format to ens
 The analysis shows that Shows dominate the total viewership hours compared to Movies.
 
 **Visualization Placeholder**  
-![Content Type Viewership Distribution](https://github.com/Sourabh1710/Netflix-Content-Strategy-Analysis/blob/main/images/content%20type%20viewership.png)
+![Content Type Viewership Distribution](images/content%20type%20viewership.png)
 
 ## Language Distribution
 English content significantly dominates Netflix’s viewership, followed by Korean content.
