@@ -33,19 +33,19 @@ The **Hours Viewed** column was cleaned and converted into numeric format to ens
 ## Content Type Viewership Distribution
 The analysis shows that Shows dominate the total viewership hours compared to Movies.
 
-**Visualization Placeholder**  
+ 
 ![Content Type Viewership Distribution](images/content%20type%20viewership.png)
 
 ## Language Distribution
 English content significantly dominates Netflix’s viewership, followed by Korean content.
 
-**Visualization Placeholder**  
+  
 ![Language Distribution](https://github.com/Sourabh1710/Netflix-Content-Strategy-Analysis/blob/main/images/Total%20Viewership%20Hours%20by%20Language.png)
 
 ## Viewership by Month
 A notable increase in viewership is observed during **June** and **December**, indicating seasonal trends and strategic content releases.
 
-**Visualization Placeholder**  
+ 
 ![Viewership by Month](https://github.com/Sourabh1710/Netflix-Content-Strategy-Analysis/blob/main/images/Total%20Viewership%20Hours%20by%20Release%20Month.png)
 
 ## Top Content by Viewership
@@ -60,25 +60,25 @@ A notable increase in viewership is observed during **June** and **December**, i
 ## Viewership Trends by Content Type
 Shows consistently have higher viewership than Movies, peaking in **December**, while movies experience occasional spikes.
 
-**Visualization Placeholder**  
+  
 ![Viewership Trends by Content Type](https://github.com/Sourabh1710/Netflix-Content-Strategy-Analysis/blob/main/images/Viewership%20Trends%20by%20Content%20Type%20and%20Release%20Month.png)
 
 ## Viewership by Season
 Viewership peaks significantly in the **Fall** season, with over 80 billion hours viewed.
 
-**Visualization Placeholder**  
+  
 ![Viewership by Season](https://github.com/Sourabh1710/Netflix-Content-Strategy-Analysis/blob/main/images/Total%20Viewership%20Hours%20by%20Release%20Season.png)
 
 ## Content Releases Across Months
 Despite a steady number of content releases, viewership increases sharply in **June** and **December**, indicating that audience engagement is influenced by content appeal rather than the number of releases.
 
-**Visualization Placeholder**  
+  
 ![Content Releases Across Months](https://github.com/Sourabh1710/Netflix-Content-Strategy-Analysis/blob/main/images/Total%20Viewership%20Hours%20by%20Release%20Month.png)
 
 ## Content Releases by Weekday
 Most content releases occur on **Fridays**, with the highest viewership recorded on that day.
 
-**Visualization Placeholder**  
+  
 ![Content Releases by Weekday](https://github.com/Sourabh1710/Netflix-Content-Strategy-Analysis/blob/main/images/Weekly%20Release%20Patterns%20and%20Viewership%20Hours.png)
 
 ## Strategic Release Dates
