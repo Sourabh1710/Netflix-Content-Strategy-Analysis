@@ -95,10 +95,6 @@ The analysis reveals that Netflix's content strategy is heavily focused on:
 
 This project highlights how Netflix aligns its content releases with audience preferences and global trends to optimize engagement.
 
-
-## Project Repository
-Feel free to explore the project on GitHub: [https://github.com/Sourabh1710/Netflix-Content-Strategy-Analysis]
-
 ## Author
 Sourabh Sonker  
 Data Science Enthusiast
