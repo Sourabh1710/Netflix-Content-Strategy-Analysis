@@ -97,5 +97,5 @@ This project highlights how Netflix aligns its content releases with audience pr
 
 ## Author
 Sourabh Sonker  
-Data Science Enthusiast
+Data Scientist
 
