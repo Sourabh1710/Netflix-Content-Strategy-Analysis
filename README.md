@@ -4,7 +4,7 @@
 This project aims to analyze Netflix's content strategy based on viewership patterns, content type, language distribution, and release timing using Python. The analysis is performed on Netflix content data from 2023, including information about titles, release dates, languages, content type (show or movie), and viewership hours.
 
 ## Dataset
-The dataset used in this project contains:
+The [dataset](https://statso.io/netflix-content-strategy-case-study/) used in this project contains:
 - Title
 - Release Date
 - Language
